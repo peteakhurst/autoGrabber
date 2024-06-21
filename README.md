@@ -23,14 +23,18 @@ This is a simple vehicle selection form built with React, Node.js, Express, and 
 ```sh
 git clone https://github.com/<USERNAME>/<REPOSITORY>.git
 cd <REPOSITORY>
+```
 
 ```sh
 yarn install
+```
 
 ```sh
 yarn dev
+```
 
 ```sh
 cd server
 yarn install
 node server.js
+```
